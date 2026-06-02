@@ -12,10 +12,6 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kinghatrung&theme=radical&hide_border=true&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kinghatrung&theme=radical&hide_border=true&layout=compact)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=kinghatrung&theme=radical&hide_border=true)
 
 ## 🏆 GitHub Trophies
