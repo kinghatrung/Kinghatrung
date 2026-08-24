@@ -5,12 +5,14 @@
 # ✦ About Me
 
  <div align="left">
-    🧑‍💻 I'm a Web Developer focused on building modern and interactive web applications.  <br>
-    ⚛️ I work with React, Next.js, React Native, Node.js and Express.js.  <br>
-    🗄️ I build scalable applications with MongoDB and RESTful APIs.  <br>
-    🛠️ I use TypeScript, Tailwind CSS, Git, GitHub and GitLab in my workflow.  <br>
+  <big><big>
+    🧑‍💻 I'm a Web Developer focused on building modern and interactive web applications.<br>
+    ⚛️ I work with React, Next.js, React Native, Node.js and Express.js.<br>
+    🗄️ I build scalable applications with MongoDB and RESTful APIs.<br>
+    🛠️ I use TypeScript, Tailwind CSS, Git, GitHub and GitLab in my workflow.<br>
     🚀 Always learning, building and improving my skills in modern web technologies.
-  </div>
+   </big></big>
+ </div>
 
 # ◈ Connect with me
 
