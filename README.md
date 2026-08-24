@@ -26,7 +26,7 @@
 
 # ◉ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,tailwind,bootstrap,react,nextjs,nuxtjs,redux,nodejs,express,mongodb,postgres,redis,docker,git,gitlab,npm,pnpm,yarn,windows,postman,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,tailwind,bootstrap,react,nextjs,vue,nuxtjs,redux,nodejs,express,mongodb,postgres,redis,docker,git,gitlab,npm,pnpm,yarn,windows,postman,vite&perline=13)](https://skillicons.dev)
 
 # ◌ GitHub Stats
 
