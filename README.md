@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="/assets/developer.png" width="100%" />
+
 ## 🌐 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/huyen2706)
